@@ -1,0 +1,4 @@
+sudo apt-get install libzbar0
+brew install zbar
+gem install zbar
+for i in drive-download-20161212T191811Z/*; do zbarimg "$i"; done
