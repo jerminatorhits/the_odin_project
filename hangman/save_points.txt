@@ -1,0 +1,23 @@
+---
+- - j
+  - e
+  - w
+  - i
+  - s
+  - h
+- 6
+- !ruby/object:Set
+  hash:
+    e: true
+    i: true
+    w: true
+- !ruby/object:Set
+  hash:
+    z: true
+    r: true
+- - _
+  - e
+  - w
+  - i
+  - _
+  - _
